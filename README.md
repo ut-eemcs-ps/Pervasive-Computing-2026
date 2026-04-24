@@ -2,8 +2,8 @@
 In this repository, you can find the codes related to the projects for the Pervasive Computing Course in Year 2025-2026.
 
 - Group 1: Speak-to-Steer: A Wearable Speech Interface for Robot Control
-Code: https://github.com/ut-eemcs-ps/speaktosteer
-Data: https://github.com/ut-eemcs-ps/speaktosteer/tree/main/TFLiteModel/voice_records
+-- Code: https://github.com/ut-eemcs-ps/speaktosteer
+-- Data: https://github.com/ut-eemcs-ps/speaktosteer/tree/main/TFLiteModel/voice_records
 
 - Group2: Robust Head Gesture Music Control
 Code: -
