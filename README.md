@@ -15,7 +15,7 @@ In this repository, you can find the codes related to the projects for the Perva
 ## 
 
 ### Group3: Real-Time Multimodal Running Coach Using OpenEarable and ESP32
-#### Code: https://github.com/Egosis/Pacing-Fitness-Coach
+#### Code: https://github.com/Egosis/Pacing-Fitness-Coach](https://github.com/ut-eemcs-ps/Pacing-FitnessCoach
 
 ## 
 
