@@ -10,7 +10,7 @@ In this repository, you can find the codes related to the projects for the Perva
 ## 
 
 ### Group2: Robust Head Gesture Music Control
-#### Code: -
+#### Code: https://github.com/ut-eemcs-ps/EarableMusicControlApp
 
 ## 
 
